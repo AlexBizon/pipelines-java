@@ -8,6 +8,7 @@ public class MyTest {
         d.DoSomething(true);
     }
 
+    
     @Test
     public void test_method_2() {
     }
